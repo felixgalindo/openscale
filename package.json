@@ -1,6 +1,6 @@
 {
   "name": "openscale",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for SparkFun OpenScale SEN-13261",
   "main": "index.js",
   "scripts": {
