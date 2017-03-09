@@ -1,0 +1,37 @@
+{
+  "name": "openscale",
+  "version": "1.0.0",
+  "description": "Module for SparkFun OpenScale SEN-13261",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "serialport": "^2.0.6"
+  },
+  "keywords": [
+    "sen-13261",
+    "openscale",
+    "load",
+    "sensor",
+    "cell",
+    "sparkfun",
+    "scale",
+    "raspberry",
+    "pi"
+  ],
+  "author": "Felix A. Galindo",
+  "license": "ISC",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixgalindo/openscale.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felixgalindo/openscale/issues"
+  },
+  "homepage": "https://github.com/felixgalindo/openscale#readme"
+}
